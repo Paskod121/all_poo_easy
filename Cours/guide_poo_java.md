@@ -8,7 +8,7 @@
 
 ---
 
-## 1. COMPRENDRE LES OBJETS 🎯
+## 1. COMPRENDRE LES OBJETS 
 
 ### 🤔 C'est quoi un objet ?
 
@@ -44,7 +44,7 @@ Voiture → modèle = "Corolla"
 
 **📖 Définition :** Un **attribut d'instance**, c'est une variable qui stocke une information propre à UN objet spécifique.
 
-#### 🎯 Mémo pour retenir
+####  Mémo pour retenir
 > **Attribut = Adjectif** → Les attributs **décrivent** l'objet
 > 
 > Pense à une carte d'identité : nom, prénom, âge, taille... Ce sont des ATTRIBUTS !
@@ -69,7 +69,7 @@ Les méthodes, ce sont les **actions** que l'objet peut faire.
 
 **📖 Définition :** Une **méthode d'instance**, c'est une action ou un service qu'un objet peut réaliser.
 
-#### 🎯 Mémo pour retenir
+####  Mémo pour retenir
 > **Méthode = Verbe** → Les méthodes sont des **ACTIONS**
 >
 > Pense à ce que TU peux faire : marcher, parler, manger... Ce sont des MÉTHODES !
@@ -150,7 +150,7 @@ OBJETS créés à partir de cette classe :
 
 **📖 Définition :** Une **instance**, c'est un objet créé à partir d'une classe.
 
-#### 🎯 Analogie pour retenir
+####  Analogie pour retenir
 ```
 Moule à gâteau = CLASSE
 Gâteaux fabriqués = INSTANCES (objets)
@@ -609,7 +609,7 @@ public class Main {
 
 ---
 
-## 🎯 MÉMO FINAL : Les Points Clés
+##  MÉMO FINAL : Les Points Clés
 
 ### 📌 À retenir absolument
 
